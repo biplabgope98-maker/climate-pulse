@@ -23,7 +23,6 @@ https://biplabgope98-maker.github.io/climate-pulse/
 - HTML5
 - CSS3
 - JavaScript (ES6)
-- jQuery
 - OpenWeather API
 - LocalStorage
 
